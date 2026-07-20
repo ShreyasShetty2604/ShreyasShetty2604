@@ -100,17 +100,7 @@ Road extraction and route-resilience analysis from satellite imagery.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasShetty2604&theme=tokyonight" alt="ShreyasShetty2604's streak stats" />
 </p>
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShreyasShetty2604&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
-</p>
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ShreyasShetty2604&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repo" />
-</p>
 
 ---
 
