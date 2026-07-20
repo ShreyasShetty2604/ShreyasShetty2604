@@ -46,7 +46,6 @@ A debugging assistant using vector similarity search to surface fixes from past 
 Road extraction and route-resilience analysis from satellite imagery.
 `PyTorch` · `NetworkX` · `Streamlit`
 
-> Pin these on your profile (Customize your pins → select repo) so they show as cards above this section.
 
 ---
 
