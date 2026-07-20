@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/shreyas_shetty.exe" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shettyshreyas2604@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shettyshreyas2604@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -92,8 +92,8 @@ Road extraction and route-resilience analysis from satellite imagery.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyasShetty2604&show_icons=true&theme=tokyonight&count_private=true" alt="ShreyasShetty2604's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasShetty2604&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ShreyasShetty2604&show_icons=true&theme=tokyonight&count_private=true" alt="ShreyasShetty2604's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShreyasShetty2604&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
